@@ -16,11 +16,13 @@ Antes de empezar, si estás en un teléfono de Google, ve a la Play Store y desa
 
 2. Exporta el Apk instalado al almacenamiento externo (para ello recomiendo usar MT Manager, un explorador de archivos potente, puedes descargarlo [aquí](https://mt-manager.en.uptodown.com/android) ). El proceso es sencillo: 
 
-A. Abre los puntitos de la barra lateral izquierda
-B. Selecciona la opción que dice "Extraer APK".
-C. En la pestaña de "APP USUARIO" busca "Spotify".
-D. Toca el icono del apk y luego en "EXTRAER APK". 
-E. Espera a que se complete y listo.
+<ol type="A">
+<li>Abre los puntitos de la barra lateral izquierda.</li>
+<li>Selecciona la opción que dice "Extraer APK".</li>
+<li>En la pestaña de "APP USUARIO" busca "Spotify".</li>
+<li>Toca el icono del apk y luego en "EXTRAER APK".</li>
+<li>Espera a que se complete y listo.</li>
+</ol>
 
 - **Nota:** *las apps exportadas se guardan en la carpeta "MT2" del dispositivo). Una vez exportado, puedes optar por desinstalar Spotify del móvil y empezar a crear tu versión MOD en los siguientes pasos.*
 
@@ -30,12 +32,14 @@ E. Espera a que se complete y listo.
 
 4. Por consiguiente, descarga ReVanced Manager [aquí](https://revanced.app/download) . Esta aplicación sirve para gestionar cada apps que tienes guardada en tu dispositivo, aplicando parches que pueden cambiar su funcionalidad a tu antojo. En este caso, la usarás para crear una versión modficada de Spotify. Para lograrlo:
 
-A. Abre el programa y ve a la pestaña "Patcher" (Parcheador).
-B. Toca en "Select an aplication" (Seleccionar una aplicación). 
-C. En la nueva ventana, pulsa el botón "Storage" (Almacenamiento) y busca la app de Spotify que guardaste. 
-D. A continuación, toca en "Select Patches" (Seleccionar parches), marca las opciones "Spoof signature" y "Unlock Spotify Premium"; 
-E. Pulsa en "Complete" y después en "Patch". Espera a que termine el proceso
-F. Una vez finalizado el proceso, instala el APK modificada y disfruta
+<ol type="A">
+<li>Abre el programa y ve a la pestaña "Patcher" (Parcheador).</li>
+<li>Toca en "Select an aplication" (Seleccionar una aplicación).</li>
+<li>En la nueva ventana, pulsa el botón "Storage" (Almacenamiento) y busca la app de Spotify que guardaste.</li>
+<li>A continuación, toca en "Select Patches" (Seleccionar parches), marca las opciones "Spoof signature" y "Unlock Spotify Premium".</li>
+<li>Pulsa en "Complete" y después en "Patch". Espera a que termine el proceso.</li>
+<li>Una vez finalizado el proceso, instala el APK modificada y disfruta.</li>
+</ol>
 
 # Tips:
 
