@@ -10,7 +10,7 @@ De antemano aclaro que no tendrás que gastar un centavo para hacer esto, tampoc
 
 ## Pasos a seguir:
 
-Antes de empezar, si estás en un teléfono de Google, ve a la Play Store y desactiva Play Protect. Esto evitará que Google notifique las apks que usarás a continuación, como virus ya que tiende a lanzar falsos positivos. Además, debes permitir la instalación de Apps desconocidas. Usaremos app externas que no se encuentran en la tienda de Google. Puedes consultar esta [guía](url) para ello.
+Antes de empezar, si estás en un teléfono de Google, ve a la Play Store y desactiva Play Protect. Esto evitará que Google notifique las apks que usarás a continuación, como virus ya que tiende a lanzar falsos positivos. Además, debes permitir la instalación de Apps desconocidas. Usaremos app externas que no se encuentran en la tienda de Google. Puedes consultar esta [guía](https://github.com/CyberKnightFran45/HackGuides/blob/main/Espa%C3%B1ol/Instalar%20apps%20externas.md) para ello.
 
 1. Descarga la última versión oficial de Spotify desde la Google Play Store (u otro sitio confiable).
 
