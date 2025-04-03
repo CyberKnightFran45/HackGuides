@@ -1,6 +1,6 @@
 # Guía para tener Spotify Premium en Android gratis (2025)
 
-![<Logo Spotify>]()
+![<Logo Spotify>](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/150px-Spotify_logo_without_text.svg.png)
 
 Esta breve guía te enseñará cómo obtener **Spotify Premium** en tu tablet o teléfono sin anuncios y con reproducción de canciones en el orden que quieras, saltándote las limitaciones que los usuarios Free tienen por default.
 
