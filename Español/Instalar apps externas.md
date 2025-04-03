@@ -2,8 +2,7 @@
 
 A menudo Google y otras tiendas de aplicaciones nos bloquean el acceso a la instalación de apps que no vengan de ellos,
 esta breve guía busca enseñar los pasos necesarios para que puedas instalar toda clase de apps y juegos desde cualquier
-fuente externa pero **CUIDADO**, no me hago responsable al daño que le puedas hacer a tu teléfono, recuerda que en Internet
-hay sitios maliciosos donde se te puede colar algun virus por error, ¡descarga archivos de fuentes confiables!
+fuente externa pero <span style="color: red;">CUIDADO</span>, no me hago responsable al daño que le puedas hacer a tu teléfono, recuerda que en Internet hay sitios maliciosos donde se te puede colar algun virus por error, <span style="color: gold;">¡descarga archivos de fuentes confiables!</span>
 
 ## Pasos a seguir
 
