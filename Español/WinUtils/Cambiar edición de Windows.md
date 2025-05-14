@@ -26,7 +26,7 @@ Selecciona la opción #7 de la lista (Change Windows Edition) y espera a que car
 
 4. A continuación, deberá aparecerte una ventana como esta:
 
-![<Menu ediciones de Windows>] (https://user-images.githubusercontent.com/40813939/124356917-6b365680-dc36-11eb-9521-a554a99428ac.png)
+![<Menu ediciones de Windows>](https://user-images.githubusercontent.com/40813939/124356917-6b365680-dc36-11eb-9521-a554a99428ac.png)
 
 - **Nota:** *te saldrá la edición actual de Windows en tu ordenador, dependiendo de la que tengas, podrás cambiarla por las versiones mostradas en la lista.*
 
